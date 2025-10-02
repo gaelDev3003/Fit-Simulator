@@ -1,0 +1,17 @@
+*.env
+*.env.*
+*.env*
+.env
+.env.*
+.env*
+mcp.json
+start-supabase-mcp.sh
+start-taskmaster-ai.sh
+
+supabase/.temp/
+**/*.png
+**/*.jpg
+**/*.webp
+**/*.mp4
+**/*.map
+.DS_Store
